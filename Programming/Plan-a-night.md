@@ -18,7 +18,7 @@ When planning for your night, there are plenty of variables to consider. Some ni
 
 **Consent**
 
-If you're planning an off-site activity, then it's a Scouts policy and legal requirement that you create and distribute an E1 (Event 1) consent form for parents to give permission for their children to attend. This form must be accurate, comprehensive and give parents all the information they need. If a Venturer turns up but has not given consent, then, unfortunatley, they must be turned back unless consent can be verified at the time by an adult leader.
+If you're planning an off-site activity, then it's a Scouts policy and legal requirement that you create and distribute an E1 (Event 1) consent form for parents to give permission for their children to attend. This form must be accurate, comprehensive and give parents all the information they need. If a Venturer turns up but has not given consent, then, unfortunately, they must be turned back unless consent can be verified at the time by an adult leader.
 
 Fortunately, it's all online and the Unit Council does it for you. You do, however, need to make sure that the Unit Council is aware of the need for a consent form and that they distribute one at an appropriate time before the night. You'll write all the information for it via Terrain (see below).
 
