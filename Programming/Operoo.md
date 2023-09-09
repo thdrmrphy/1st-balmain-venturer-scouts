@@ -2,7 +2,7 @@
 
 To create a digital E1 form on Operoo, first ensure you have a staff account. This is usually only for the Unit Council. If you're planning a night and not on the Unit Council, this responsibility falls on the person Unit Council or Leader, so talk to them.
 
-Make sure the event organiser has filled out the Terrain Programming event for the activity fully and accurately (see the [Terrain page](/Terrain.md) if you're not sure) so you can create the eForm to match.
+Make sure the event organiser has filled out the Terrain Programming event for the activity fully and accurately (see the [Terrain page](Terrain.md) if you're not sure) so you can create the eForm to match.
 
 The below guide will walk you through the steps to create an eForm.
 
