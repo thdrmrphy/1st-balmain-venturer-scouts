@@ -2,7 +2,7 @@
 
 This is the one comprehensive document you should need to help you plan a night for 1st Balmain Venturer Scouts.
 
-When you're planning, you'll be talking to the Unit Council, specifically those responsible for Internal Communication and Coordination and Implementation. Check the [Unit Council List](../Unit Council.md) to see who's currently responsible. 
+When you're planning, you'll be talking to the Unit Council, specifically those responsible for Internal Communication and Coordination and Implementation. Check the [Unit Council List](../Unit%20Council.md) to see who's currently responsible. 
 
 The Unit Council will take care of communication, consent forms, and payments for you, but you need to plan the night and provide the information, ensuring you've booked anything appropriately, worked out likely attendance numbers, etc.
 
