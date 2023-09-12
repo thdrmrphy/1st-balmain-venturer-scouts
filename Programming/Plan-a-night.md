@@ -66,15 +66,13 @@ Follow the above considerations and make sure you've worked out anything else yo
 
 Now, it's time to fill out the Terrain entry for your night as fully as possible. See [this guide](Terrain.md).
 
-### Two weeks before the night
+### One week before the night
 
 It's now time to fully brief the Unit Council on all the details of the night if you haven't already. This will likely just be directing them to Terrain to review what you've written.
 
 If an E1 form is required, the Unit Council will create one based on the information on Terrain at this point. It will go to parents and parents will be reminded every few days until they complete the form (they can accept or reject).
 
-### One week before the night
-
-At this point, any final information should be confirmed, so that the Unit Council can communicate it to the Venturers.
+At this point, any final information should be confirmed, so that the Unit Council can also communicate it to the Venturers.
 
 ### The day before
 
