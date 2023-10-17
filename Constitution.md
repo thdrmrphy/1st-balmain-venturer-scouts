@@ -11,11 +11,6 @@
 
 ### 1.1 Constitution
 
-* Introduction of the Unit Constitution
-    * The Unit Constitution will be introduced, at the general consensus approval of the Unit, subject to a three-month trial period;
-    * During the three-month trial period, a Unit Council is elected as usual, but if the trial period is deemed successful, the process shall restart;
-    * The trial period is to be deemed successful via a general consensus of the Unit community;
-    * The trial period shall not be abandoned; rather, the constitution should be amended to resolve any issues.
 * Changes to the Constitution
     * The constitution shall be amended via a majority vote of the Unit Council;
     * All amendments shall be, at the soonest available opportunity, communicated to the Unit community.
@@ -78,7 +73,7 @@
     * A vacancy is created, i.e.:
         * Unit Council member leaves Venturers, has HSC work, etc.;
         * Unit grows and new Unit Council member is required;
-    * The beginning of the calendar year, in which case all Unit Council members are required to be reelected.
+    * The beginning of the calendar year, in which case all Unit Council members are required to be reelected, unless all members of the Unit agree that this is not required.
 * The voting process is as follows:
     1.  The entire Unit is surveyed for interest in becoming a member of the Unit Council.
     2.  Interested and informed members can apply for candidacy.
