@@ -31,7 +31,7 @@ The below guide will walk you through the steps to create an eForm.
     - You can get the phone numbers from the bottom of the [main info page](https://groups.operoo.com/buckets/413454/show_profiles).
 - Under Additional Notes, you can put the full details of the event. Remember, this is what gets sent to parents, so be clear and comprehensive.
 - Update the adult supervision / gender supervision table. Usually all three rows are "Yes".
-- Leave everything else below the same, with the exception of the "I consent to the participant being involved in the following Adventurous Activities" multiple-choice question
+- Leave everything else below the same, with the exception of the "I consent to the participant being involved in the following Adventurous Activities" multiple-choice question;
     - Ensure you remove any irrelevant consent options (i.e. click the delete button next to "Vertical" if you're going on a boating trip)
     - Ensure you make clear the details of the Adventurous Activities that parents are consenting to.
 - Scroll to the bottom and click Save.
@@ -42,7 +42,7 @@ The below guide will walk you through the steps to create an eForm.
 - Click the green tick to the left of "1st Balmain Scout Group" to deselect it
 - Click the green tick to the left of "1st Balmain Venturer Unit" to select it again
 - Click "Add All" to the right of the title in the middle column
-- Note: some linking members or other participants may not be listed in the right column. In that case, select the enture Group again and use the search bar to find and add them.
+- Note: some linking members or other participants may not be listed in the right column. In that case, select the entire Group again and use the search bar to find and add them.
 - Click "Save".
     - There might be a confirmation box, just click "Confirm"
 
