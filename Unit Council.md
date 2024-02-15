@@ -13,5 +13,6 @@
 | James de Pater | TBD [incoming] |
 
 Unfilled roles: 
-Program Implementation
-Ceremonies
+
+- Program Implementation
+- Ceremonies
