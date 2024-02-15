@@ -3,10 +3,15 @@
 ## Term 1, 2024 - Members and responsibilities
 
 | Name | Role |
-| --- | --- |
+| ---- | ---- |
 | Theodore Murphy | Unit Leader, Terrain |
-| Sophie Poulos | Assistant Unit Leader, Ceremonies [Outgoing]|
-| Loxon Lauer | Coordination and Implementation [Outgoing]|
+| Grace Raggatt | Assistant Unit Leader, Internal Communication |
 | Sophia Gardner | Group Communication |
 | Isla Murdoch | External Communication |
-| Grace Raggatt | Internal Communication  |
+| Kai Summerfield | TBD [incoming] |
+| Axel Tkachew | TBD [incoming] |
+| James de Pater | TBD [incoming] |
+
+Unfilled roles: 
+Program Implementation
+Ceremonies
