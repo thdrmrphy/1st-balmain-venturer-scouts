@@ -64,7 +64,7 @@ Occasionally, on-site activites will cost money to run or supply. The Unit Counc
 
 Follow the above considerations and make sure you've worked out anything else you can think of. Ensure you've booked anything as required, confirmed attendance of other groups if planned and worked out clear details.
 
-Now, it's time to fill out the Terrain entry for your night as fully as possible. See [this guide](Terrain.md).
+Now, it's time to fill out the Terrain entry for your night as fully as possible. See [this guide](Terrain).
 
 ### One week before the night
 
