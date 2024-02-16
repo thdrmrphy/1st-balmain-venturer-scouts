@@ -49,7 +49,7 @@ When you're planning for an event, the Unit Council will set up a calendar entry
 
 ### Set up an event for an organiser
 
-- Make sure you're logged into [Scouts | Terrain](https://terrain.scouts.com.au/)
+- Make sure you're logged into [Scouts \| Terrain](https://terrain.scouts.com.au/)
 - Go to the [Programming page](https://terrain.scouts.com.au/programming)
 - Click "Plan Activity"
 - Set a basic title so the organiser knows what it's for, and get the date and times roughly correct. The organiser will fix these later.
