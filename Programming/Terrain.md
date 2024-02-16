@@ -5,7 +5,7 @@ When you're planning for an event, the Unit Council will set up a calendar entry
 ## For event organisers
 
 ### Find your event
-- Make sure you're logged into [Scouts | Terrain](https://terrain.scouts.com.au/)
+- Make sure you're logged into [Scouts \| Terrain](https://terrain.scouts.com.au/)
 - Go to the [Programming page](https://terrain.scouts.com.au/programming)
 - Below the calendar, there should be a section titled "Assigned Activities". Click "Edit Plan" on the right of your activity.
 
