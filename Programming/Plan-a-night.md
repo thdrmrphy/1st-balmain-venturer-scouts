@@ -101,4 +101,4 @@ Finally, run your night and have fun!
 - Click "Next Step"
 - Finalise that everything on the page is correct, then click "Conclude Plan" at the bottom. 
 
-Everyone has now been attributed appropriately for their Milestones and the event has been formally concluded :tada:
+Everyone has now been attributed appropriately for their Milestones and the event has been formally concluded 🎉
