@@ -2,13 +2,13 @@
 
 Welcome to 1st Balmain Venturer Scouts' GitHub documentation centre. Please see the below links:
 
-- [Constitution](/Constitution)
-- [Current Unit Council members](/Unit%20Council)
-- [Programming](/Programming/)
-    - [How to use Operoo](/Programming/Operoo)
-    - [How to use Terrain](/Programming/Terrain)
-    - [How to plan a night](/Programming/Plan-a-night)
-    - [How to plan a longer event](/Programming/Plan-a-longer-event)    
+- [Constitution](Constitution)
+- [Current Unit Council members](Unit%20Council)
+- [Programming](Programming/)
+    - [How to use Operoo](Programming/Operoo)
+    - [How to use Terrain](Programming/Terrain)
+    - [How to plan a night](Programming/Plan-a-night)
+    - [How to plan a longer event](Programming/Plan-a-longer-event)    
 - More to come soon
 
 ---
