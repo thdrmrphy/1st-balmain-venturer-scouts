@@ -1,6 +1,6 @@
 # 1st Balmain Venturer Scouts
 
-Welcome to 1st Balmain Venturer Scouts' GitHub documentation centre. Please see the below links:
+Welcome to 1st Balmain Venturer Scouts' documentation centre. Please see the below links:
 
 - [Constitution](Constitution)
 - [Current Unit Council members](Unit%20Council)
@@ -10,6 +10,8 @@ Welcome to 1st Balmain Venturer Scouts' GitHub documentation centre. Please see 
     - [How to plan a night](Programming/Plan-a-night)
     - [How to plan a longer event](Programming/Plan-a-longer-event)    
 - More to come soon
+
+Visit also the [document tree](https://github.com/thdrmrphy/1st-balmain-venturer-scouts) to see PDFs and other files.
 
 ---
 
