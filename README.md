@@ -8,7 +8,9 @@ Welcome to 1st Balmain Venturer Scouts' documentation centre. Please see the bel
     - [How to use Operoo](Programming/Operoo)
     - [How to use Terrain](Programming/Terrain)
     - [How to plan a night](Programming/Plan-a-night)
-    - [How to plan a longer event](Programming/Plan-a-longer-event)    
+    - [How to plan a longer event](Programming/Plan-a-longer-event)
+- [Peak Award](Peak%20Award%20PDFs/)
+    - 
 - More to come soon
 
 Visit also the [document tree](https://github.com/thdrmrphy/1st-balmain-venturer-scouts) to see PDFs and other files.
