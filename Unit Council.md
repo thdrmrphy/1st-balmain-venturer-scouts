@@ -6,11 +6,11 @@
 | ---- | ---- |
 | Theodore Murphy | Unit Leader, Terrain |
 | Grace Raggatt | Assistant Unit Leader, Internal Communication |
-| Isla Murdoch | External Communication |
 | Kai Summerfield | Ceremonies |
 | James de Pater | Program Implementation |
 | Axel Tkachew |  |
 | [vacant]|  |
+| [vacant]|  |
 
 
-Vacant: one seat and Group Communication responsibility
+Vacant: two seats and Group and External Communication responsibilities
