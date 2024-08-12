@@ -9,8 +9,8 @@
 | Kai Summerfield | Ceremonies |
 | James de Pater | Program Implementation |
 | Axel Tkachew |  |
-| [vacant]|  |
-| [vacant]|  |
+| Polly Batchelor |  |
+| Issy Matthews |  |
 
 
-Vacant: two seats and Group and External Communication responsibilities
+Vacant: Group and External Communication responsibilities
